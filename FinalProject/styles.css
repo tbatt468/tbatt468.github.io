@@ -1,0 +1,83 @@
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+   position: relative;
+   width: 100%;
+   min-height: 1px;
+   padding-right: 0px;
+   padding-left: 0px;
+}
+ 
+ .home {
+    width: 200px;
+    height: 200px;
+   
+}
+  
+ .content-area {
+    padding-top: 20px;
+}
+
+#navbarTogglerDemo02 {
+   background-color:#96AFFF !important;   
+   height: 100px;  
+   padding: 30px; 
+   margin-right: -2em;
+   
+}
+a{
+   color: white !important;
+   font-family: avenir, sans-serif;
+ 
+}
+i{
+}
+h4{
+   color: #2699FB !important;
+   font-family: avenir, sans-serif;
+   font-size: 18pt;
+}
+ p {
+   color:#06227C !important; 
+   font-family: avenir, sans-serif;
+   font-size: 12pt;
+   }
+
+   .card-group{
+      padding: 20px;
+   }
+
+.lowercards{
+   background-color:#96AFFF !important; 
+   padding-left: 8%;
+   margin-left: -2em;
+   margin-right: -2em;
+}
+.large-image{
+   padding-right: 10px;
+}
+.header1{
+   padding-top: 17px;
+   padding-left: 35px;
+}
+.header2{
+   padding: 35px;
+}
+.pic3{
+   padding-top: 8em;
+   padding-right: 20px;
+}
+
+.instagram{
+   padding-left: 38em !important;
+}
+  
+.facebook{
+   padding-left: 45px !important;
+}
+.media{
+   margin: 20px;
+ 
+}
+.post{
+   margin-right: 28px !important;
+}
+
